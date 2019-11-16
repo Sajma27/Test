@@ -1,1 +1,1 @@
-# HelloSwift
+# HelloSwiftSzymon Woźniak
